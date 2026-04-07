@@ -26,4 +26,4 @@
 * ChatGPT 추천: 창의적 글쓰기, 심층적인 코딩 상담, 복잡한 논리 분석
 * Gemini 추천: 최신 트렌드 조사, 구글 문서 협업, 빠르고 간결한 정보 요약
 
-![ChatGPT VS Gemini]()
+![ChatGPT VS Gemini](IMG_5299.jpeg)
