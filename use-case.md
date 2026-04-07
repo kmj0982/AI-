@@ -64,3 +64,9 @@ LLM은 전문 지식이 필요한 분야에서도 점차 활용되고 있다.
 * 간단한 응급처치 정보
 
 ![chatGPT에게 여행 중 증상을 말했을 때 답변](6.전문분야조언.png)
+
+---
+## 참조
+
+[chatGPT](https://chatgpt.com)
+[Gemini](https://gemini.google)
