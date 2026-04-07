@@ -1,5 +1,7 @@
 # 4. comparison.md (ChatGPT vs Gemini)
 
+![ChatGPT VS Gemini](IMG_5299.jpeg)
+
 ### 1. 모델 엔진 및 서비스 철학
 두 도구는 각기 다른 엔진을 기반으로 개발되어 고유한 강점을 가지고 있다.
 * ChatGPT: OpenAI의 GPT 모델 기반, 논리적 추론과 창의적 텍스트 생성에 특화
@@ -26,4 +28,4 @@
 * ChatGPT 추천: 창의적 글쓰기, 심층적인 코딩 상담, 복잡한 논리 분석
 * Gemini 추천: 최신 트렌드 조사, 구글 문서 협업, 빠르고 간결한 정보 요약
 
-![ChatGPT VS Gemini](IMG_5299.jpeg)
+
