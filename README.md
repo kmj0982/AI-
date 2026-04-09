@@ -12,7 +12,7 @@
 - [프롬프트 엔지니어링](prompt-engineering.md)
 - [활용 사례](use-case.md)
 - [AI 서비스 비교](comparison.md)
-- [협업 방법](collaboration.md)
+- [협업 방법](Collaboration.md)
 - [실전 활용 팁](ethics-and-limits.md)
 
 ---
