@@ -41,13 +41,34 @@
 - 권민지: ethics-and-limits.md 작성
 
 ---
+## 🤝 협업 방식
 
+본 프로젝트는 GitHub을 기반으로 팀원 간 역할을 분담하여 협업하였다.
+
+### Branch 전략
+- `main` branch는 최종 완성본만 유지
+- 팀원 각자 개인 branch를 생성하여 작업 진행
+- branch 이름은 담당 파일명 기준으로 통일
+  - 예: `feature/prompt-engineering`, `feature/tips`
+
+### Pull Request 규칙
+- 작업 완료 후 main branch로 PR 생성
+- PR 제목은 작업 내용을 명확하게 작성
+- 팀원 최소 1명 이상 확인 후 merge 진행
+
+### 커밋 규칙
+- 커밋은 작은 단위로 나눠서 진행
+- 커밋 메시지는 작업 내용을 구체적으로 기록
+  - 예: "프롬프트 엔지니어링 도입부 작성", "비교 실험 결과 이미지 추가"
+- 하루 최소 5회 이상 커밋을 목표로 진행
+
+---
 ## 🔗 참고 자료
 - ChatGPT: https://chat.openai.com
 - Gemini: https://gemini.google.com
 
 ---
-### 💡이 가이드의 구성 및 주요 내용
+## 💡이 가이드의 구성 및 주요 내용
 본 문서는 AI 도구의 기초부터 실전 협업 활용까지 단계별로 학습할 수 있도록 구성되었다.
 * 프롬프트 엔지니어링(prompt-engineering): 좋은 답변을 얻기 위한 프롬프트 작성 전략 및 비교 실험
 * 실전 유스케이스(use-case): 과제 작성, 코딩, 번역 등 실제 사례 기반의 활용법 제시
