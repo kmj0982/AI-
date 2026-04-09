@@ -19,7 +19,7 @@
 - 날짜 및 역사적 사실
 - 특정 인물의 발언
 - 의학, 법률, 공학 등의 전문 지식
-<img width="713" height="564" alt="캡처_2024_01_23_01_27_13_42" src="https://github.com/user-attachments/assets/88eb0c55-983c-473f-bee0-dd688287699a" />
+![할루시네이션 예시](https://github.com/user-attachments/assets/88eb0c55-983c-473f-bee0-dd688287699a)
 
 
 따라서 AI의 답변을 그대로 받아들이는 게 아니라 반드시 사실 여부를 확인해야 한다.
