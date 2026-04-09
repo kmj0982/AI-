@@ -33,6 +33,7 @@
 ---
 
 ## 👥 팀 구성 및 역할
+- 원현지: README.md 작성
 - 원현지: intro.md 작성
 - 권민지: prompt-engineering.md 작성
 - 고하영: use-case.md 작성
