@@ -13,7 +13,7 @@
 - [활용 사례](use-case.md)
 - [AI 서비스 비교](Comparison.md)
 - [협업 방법](Collaboration.md)
-- [실전 활용 팁](ethics-and-limits.md)
+- [AI윤리와 한계](ethics-and-limits.md)
 
 ---
 
