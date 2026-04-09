@@ -1,4 +1,4 @@
-# 4. comparison.md (ChatGPT vs Gemini)
+# comparison.md (ChatGPT vs Gemini)
 
 ![ChatGPT VS Gemini](IMG_5299.jpeg)
 
