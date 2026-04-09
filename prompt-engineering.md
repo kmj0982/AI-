@@ -40,20 +40,20 @@
 ### 실험 1 - 과제 작성
 | 프롬프트 | 결과 |
 |------|--------------|
-| 지구온난화에 대한 글을 써줘 | <img width="710" height="718" alt="스크린샷 2026-04-08 오후 8 38 39" src="https://github.com/user-attachments/assets/38975176-fb27-492b-9ffc-b932d990d748" /> |
-| 나는 대학교 1학년 환경공학과 학생이야. 지구온난화를 주제로 서론/본론/결론 구조로 A4 1장 분량의 레포트를 써줘. 어려운 용어는 쉽게 풀어서 설명해줘 | <img width="533" height="697" alt="스크린샷 2026-04-08 오후 8 50 55" src="https://github.com/user-attachments/assets/cb8aed36-8708-4a7b-870d-94626ae399c7" /> |
+| 지구온난화에 대한 글을 써줘 | ![과제 작성-나쁜 프롬프트 결과](https://github.com/user-attachments/assets/63591e15-b392-473d-8b60-fca98c557d0d) |
+| 나는 대학교 1학년 환경공학과 학생이야. 지구온난화를 주제로 서론/본론/결론 구조로 A4 1장 분량의 레포트를 써줘. 어려운 용어는 쉽게 풀어서 설명해줘 | ![과제 작성-좋은 프롬프트 결과](https://github.com/user-attachments/assets/a9cfd578-d0ba-47e1-a38a-01063608346a) |
 
 ### 실험 2 - 코딩
 | 프롬프트 | 결과 |
 |------|--------------|
-| 성적 계산 파이썬 코드 짜줘 | <img width="543" height="494" alt="스크린샷 2026-04-08 오후 8 54 14" src="https://github.com/user-attachments/assets/21e06988-e2dd-41e6-9b0b-a33d41ca40bb" /> |
-| 나는 성적 채점 조교인데 파이썬으로 학생 성적 리스트를 입력받아 평균, 최고점, 최저점을 출력하는 코드를 짜줘. 주석도 달아줘 | <img width="539" height="626" alt="스크린샷 2026-04-08 오후 8 56 37" src="https://github.com/user-attachments/assets/6ba10c63-ca45-45f2-9a44-c0bb1f5efca6" /> |
+| 성적 계산 파이썬 코드 짜줘 | ![코딩-나쁜 프롬프트 결과](https://github.com/user-attachments/assets/c55f2efc-4437-4a8b-96fd-13855826ae63) |
+| 나는 성적 채점 조교인데 파이썬으로 학생 성적 리스트를 입력받아 평균, 최고점, 최저점을 출력하는 코드를 짜줘. 주석도 달아줘 | ![코딩-좋은 프롬프트 결과](https://github.com/user-attachments/assets/15d4fce0-2a95-416d-a65b-6eebc4e8ab2c) |
 
 ### 실험 3 - 번역
 | 프롬프트 | 결과 |
 |------|--------------|
-| And between the sand and stone, could you make it on your own? 이거 번역해줘 | <img width="502" height="113" alt="스크린샷 2026-04-08 오후 8 59 57" src="https://github.com/user-attachments/assets/f9245d5b-0bcd-4ab3-8f13-0543e05775b0" /> |
-| "And between the sand and stone, could you make it on your own?" 이거 The Calling의 "Wherever You Will Go" 노래 가사 중 일부인데 자연스러운 한국어 문맥에 맞게 번역해줘 | <img width="527" height="364" alt="스크린샷 2026-04-08 오후 9 02 00" src="https://github.com/user-attachments/assets/af8dcbf5-6202-424b-a738-bdc1ab97d6ca" /> |
+| And between the sand and stone, could you make it on your own? 이거 번역해줘 | ![번역-나쁜 프롬프트 결과](https://github.com/user-attachments/assets/616fc325-421b-4e7c-8369-d1591ebaa188) |
+| "And between the sand and stone, could you make it on your own?" 이거 The Calling의 "Wherever You Will Go" 노래 가사 중 일부인데 자연스러운 한국어 문맥에 맞게 번역해줘 | ![번역-좋은 프롬프트 결과](https://github.com/user-attachments/assets/771a7fe6-4ed5-448f-96bf-348e15d11db7) |
 
 ## 4. 실험 결과 분석
 
