@@ -74,4 +74,4 @@
 * 실전 유스케이스(use-case): 과제 작성, 코딩, 번역 등 실제 사례 기반의 활용법 제시
 * 모델 비교 분석(comparison): 대표적 도구인 ChatGPT와 Gemini의 장단점 및 특징 비교
 * GitHub 기반 협업(collaboration): 팀 프로젝트와 개발 환경에서 AI를 활용한 효율적인 협업 방식
-* AI 윤리와 한계(ethics-and-limits): 작업 속도를 높여주는 단축키 및 유용한 부가 기능 및 주의사항 정리
+* AI 윤리와 한계(ethics-and-limits): AI 사용 시 발생할 수 있는 문제점과 한계, 그리고 올바른 활용 방법 정리
