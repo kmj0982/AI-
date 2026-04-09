@@ -46,8 +46,8 @@
 - ChatGPT: https://chat.openai.com
 - Gemini: https://gemini.google.com
 
-
-### 5. 이 가이드의 구성 및 주요 내용
+---
+### 💡이 가이드의 구성 및 주요 내용
 본 문서는 AI 도구의 기초부터 실전 협업 활용까지 단계별로 학습할 수 있도록 구성되었다.
 * 프롬프트 엔지니어링(prompt-engineering): 좋은 답변을 얻기 위한 프롬프트 작성 전략 및 비교 실험
 * 실전 유스케이스(use-case): 과제 작성, 코딩, 번역 등 실제 사례 기반의 활용법 제시
